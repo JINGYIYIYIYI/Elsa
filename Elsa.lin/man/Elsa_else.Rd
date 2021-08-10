@@ -7,7 +7,7 @@
 Elsa_else(df_you, id_name, group_name, fun_name, fun_type = 1, prob = 0.25)
 }
 \arguments{
-\item{df_you}{数据集}
+\item{df_you}{数据集tibble}
 
 \item{id_name}{须生成id的列}
 
